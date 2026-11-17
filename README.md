@@ -40,6 +40,11 @@
 - **AI 助手**：通过兼容 OpenAI 接口的模型智能修改脚本代码、分析图像（可选）
 - **热加载**：脚本注册中心 `config/scripts.json` 支持热加载，无需重启服务
 - **数据预处理**：内置长表 / 宽表互转等数据处理工具
+<img width="2550" height="1238" alt="image" src="https://github.com/user-attachments/assets/2c44331c-8e7b-4daf-825e-4fdf0742c05e" />
+<img width="1517" height="1107" alt="image" src="https://github.com/user-attachments/assets/6e8de5fd-49c6-42e2-9a62-8c2050ca6877" />
+<img width="593" height="948" alt="image" src="https://github.com/user-attachments/assets/05aa29e3-35d1-44de-9657-2cfc7ab252a2" />
+
+
 
 ## 技术栈
 
