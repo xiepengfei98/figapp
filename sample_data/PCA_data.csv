@@ -1,0 +1,16 @@
+x,y,group,label
+-2.1,1.5,Treatment,Sample1
+-1.8,0.8,Treatment,Sample2
+-2.5,1.2,Treatment,Sample3
+-1.5,2.0,Treatment,Sample4
+-2.8,0.5,Treatment,Sample5
+3.2,-1.8,Control,Sample6
+2.8,-1.2,Control,Sample7
+3.5,-2.0,Control,Sample8
+2.0,-1.5,Control,Sample9
+3.8,-2.5,Control,Sample10
+0.5,-0.3,Vehicle,Sample11
+-0.2,0.8,Vehicle,Sample12
+0.8,-1.0,Vehicle,Sample13
+-0.5,0.2,Vehicle,Sample14
+0.3,-0.6,Vehicle,Sample15

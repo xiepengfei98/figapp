@@ -1,0 +1,7 @@
+x,y,label,color,group,size
+Study1,1.85,1.25,2.45,SubgroupA,0
+Study2,1.45,0.95,1.95,SubgroupA,0
+Study3,2.10,1.55,2.65,SubgroupA,1
+Study4,1.25,0.80,1.70,SubgroupB,0
+Study5,1.65,1.15,2.15,SubgroupB,0
+Study6,1.95,1.40,2.50,SubgroupB,1

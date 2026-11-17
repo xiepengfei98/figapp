@@ -1,0 +1,13 @@
+x,y,label
+All,Immune,100
+All,Stromal,60
+All,Epihelial,40
+Immune,T_Cell,45
+Immune,B_Cell,25
+Immune,NK,15
+Immune,Macrophage,15
+Stromal,Fibroblast,30
+Stromal,Endothelial,20
+Stromal,Pericyte,10
+Epihelial,Basal,22
+Epihelial,Luminal,18

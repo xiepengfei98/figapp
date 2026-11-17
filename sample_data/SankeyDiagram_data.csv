@@ -1,0 +1,15 @@
+x,y,label
+Screening,Confirmed,500
+Screening,Negative,3500
+Confirmed,StageI,150
+Confirmed,StageII,200
+Confirmed,StageIII,100
+Confirmed,StageIV,50
+StageI,Surgery,120
+StageII,Surgery,160
+StageII,Chemotherapy,40
+StageIII,Chemotherapy,80
+StageIV,Palliative,50
+Surgery,Recovery,250
+Chemotherapy,Recovery,100
+Palliative,FollowUp,50

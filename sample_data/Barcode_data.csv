@@ -1,0 +1,15 @@
+x,y,color,group
+150,GroupA,Type1,Set1
+320,GroupA,Type2,Set1
+450,GroupA,Type1,Set2
+780,GroupB,Type2,Set2
+1200,GroupB,Type1,Set1
+1500,GroupB,Type2,Set1
+2200,GroupC,Type1,Set2
+2800,GroupC,Type2,Set2
+3500,GroupC,Type1,Set1
+4200,GroupA,Type2,Set1
+4800,GroupA,Type1,Set2
+5100,GroupB,Type2,Set2
+5600,GroupB,Type1,Set1
+6200,GroupC,Type2,Set1

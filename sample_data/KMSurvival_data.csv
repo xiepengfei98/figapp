@@ -1,0 +1,15 @@
+x,y,group
+0,1.00,Treatment
+6,0.85,Treatment
+12,0.72,Treatment
+18,0.58,Treatment
+24,0.45,Treatment
+30,0.35,Treatment
+36,0.28,Treatment
+0,1.00,Control
+6,0.65,Control
+12,0.48,Control
+18,0.32,Control
+24,0.22,Control
+30,0.15,Control
+36,0.10,Control

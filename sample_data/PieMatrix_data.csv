@@ -1,0 +1,11 @@
+x,y,group,facet
+大类别,30,A,Group1
+大类别,50,B,Group1
+大类别,20,C,Group1
+小类别,40,A,Group1
+小类别,35,B,Group1
+小类别,25,C,Group1
+大类别,45,A,Group2
+小类别,55,A,Group2
+大类别,35,B,Group2
+小类别,65,B,Group2

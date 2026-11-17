@@ -1,0 +1,6 @@
+x,Region1,Region2,Region3,Region4,Region5
+Region1,100,45,12,8,3
+Region2,45,100,55,18,10
+Region3,12,55,100,65,25
+Region4,8,18,65,100,70
+Region5,3,10,25,70,100

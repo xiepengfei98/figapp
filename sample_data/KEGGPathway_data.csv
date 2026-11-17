@@ -1,0 +1,11 @@
+x,y,group
+EGFR,PIK3CA,activation
+PIK3CA,AKT1,phosphorylation
+AKT1,MTOR,activation
+EGFR,KRAS,activation
+KRAS,BRAF,phosphorylation
+BRAF,MAP2K1,phosphorylation
+MAP2K1,ERK,phosphorylation
+ERK,CREB,activation
+TP53,CDKN1A,transcriptional
+CDKN1A,CDK2,inhibition

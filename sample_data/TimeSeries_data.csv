@@ -1,0 +1,13 @@
+x,y,group
+2023-01,100,ProductA
+2023-02,120,ProductA
+2023-03,115,ProductA
+2023-04,140,ProductA
+2023-05,155,ProductA
+2023-06,150,ProductA
+2023-01,80,ProductB
+2023-02,95,ProductB
+2023-03,90,ProductB
+2023-04,110,ProductB
+2023-05,125,ProductB
+2023-06,120,ProductB

@@ -1,0 +1,13 @@
+x,y,group,label
+2.3,4.5,3.2,GroupA
+3.1,5.2,2.8,GroupA
+4.8,6.1,4.5,GroupA
+5.2,4.8,3.5,GroupA
+1.5,2.8,5.5,GroupB
+2.8,3.5,4.8,GroupB
+3.5,2.0,6.2,GroupB
+4.2,1.5,5.0,GroupB
+6.5,7.2,1.5,GroupC
+7.0,6.5,2.0,GroupC
+7.8,8.0,1.8,GroupC
+8.5,7.5,2.5,GroupC

@@ -1,0 +1,7 @@
+x,y,size
+GroupA,Response,45
+GroupA,NoResponse,15
+GroupB,Response,30
+GroupB,NoResponse,30
+GroupC,Response,25
+GroupC,NoResponse,35

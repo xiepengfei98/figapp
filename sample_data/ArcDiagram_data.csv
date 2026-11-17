@@ -1,0 +1,11 @@
+x,y,label
+GeneA,GeneB,5
+GeneA,GeneC,3
+GeneB,GeneD,4
+GeneC,GeneD,2
+GeneC,GeneE,6
+GeneD,GeneF,3
+GeneE,GeneF,5
+GeneE,GeneG,2
+GeneF,GeneH,4
+GeneG,GeneH,3

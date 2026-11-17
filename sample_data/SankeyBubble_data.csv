@@ -1,0 +1,9 @@
+x,y,size
+SourceA,Node1,30
+SourceA,Node2,20
+SourceB,Node1,25
+SourceB,Node3,15
+Node1,Node4,40
+Node2,Node4,15
+Node3,Node4,10
+Node4,Sink,65

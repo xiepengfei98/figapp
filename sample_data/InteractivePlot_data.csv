@@ -1,0 +1,13 @@
+x,y,group,label
+2.3,4.5,Cluster1,PointA
+3.1,5.2,Cluster1,PointB
+4.8,6.1,Cluster1,PointC
+5.2,4.8,Cluster1,PointD
+1.5,2.8,Cluster2,PointE
+2.8,3.5,Cluster2,PointF
+3.5,2.0,Cluster2,PointG
+4.2,1.5,Cluster2,PointH
+6.5,7.2,Cluster3,PointI
+7.0,6.5,Cluster3,PointJ
+7.8,8.0,Cluster3,PointK
+8.5,7.5,Cluster3,PointL

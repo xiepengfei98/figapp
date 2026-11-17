@@ -1,0 +1,13 @@
+x,y,size,label
+GeneA,100,300,exon
+GeneA,350,450,exon
+GeneA,500,700,exon
+GeneA,150,200,intron
+GeneA,320,345,intron
+GeneA,470,495,intron
+GeneB,50,250,exon
+GeneB,300,400,exon
+GeneB,120,180,intron
+GeneB,270,295,intron
+GeneC,200,500,exon
+GeneC,550,800,exon

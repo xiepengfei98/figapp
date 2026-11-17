@@ -1,0 +1,9 @@
+x,y,group
+Input,Processing,100
+Processing,Analysis,80
+Analysis,Reporting,65
+Reporting,Archive,65
+Input,Validation,90
+Validation,Analysis,75
+Analysis,Review,60
+Review,Archive,55

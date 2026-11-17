@@ -1,0 +1,13 @@
+x,y,group,label
+GeneA,2.5,Cluster1,T1
+GeneA,4.2,Cluster1,T2
+GeneA,6.8,Cluster1,T3
+GeneA,8.5,Cluster1,T4
+GeneB,5.5,Cluster2,T1
+GeneB,4.8,Cluster2,T2
+GeneB,3.5,Cluster2,T3
+GeneB,2.8,Cluster2,T4
+GeneC,1.5,Cluster3,T1
+GeneC,3.2,Cluster3,T2
+GeneC,5.5,Cluster3,T3
+GeneC,7.8,Cluster3,T4

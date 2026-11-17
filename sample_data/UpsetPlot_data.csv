@@ -1,0 +1,11 @@
+x,SetA,SetB,SetC,SetD
+Gene1,1,1,0,0
+Gene2,1,0,1,0
+Gene3,1,1,1,0
+Gene4,0,1,1,0
+Gene5,1,0,0,1
+Gene6,0,1,0,1
+Gene7,0,0,1,1
+Gene8,1,1,1,1
+Gene9,1,0,1,1
+Gene10,0,1,1,1

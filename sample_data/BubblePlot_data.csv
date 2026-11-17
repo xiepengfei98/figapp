@@ -1,0 +1,10 @@
+x,y,size,group,label
+-2.5,1.8,45,Cluster1,GeneA
+-1.8,2.5,32,Cluster1,GeneB
+-3.2,1.2,55,Cluster1,GeneC
+2.5,-1.5,60,Cluster2,GeneD
+3.0,-2.0,38,Cluster2,GeneE
+2.0,-2.8,50,Cluster2,GeneF
+4.5,3.5,25,Cluster3,GeneG
+5.0,2.8,42,Cluster3,GeneH
+4.0,4.2,35,Cluster3,GeneI

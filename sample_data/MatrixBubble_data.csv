@@ -1,0 +1,9 @@
+x,y,group,label
+GeneA,Path1,2.5,35
+GeneA,Path2,1.8,22
+GeneB,Path1,4.2,50
+GeneB,Path2,3.5,40
+GeneC,Path1,1.2,15
+GeneC,Path2,5.5,65
+GeneD,Path1,3.8,45
+GeneD,Path2,2.0,25

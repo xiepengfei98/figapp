@@ -1,0 +1,9 @@
+x,y,group,label
+A,10,5,Series1
+B,15,8,Series1
+C,12,6,Series1
+D,18,10,Series1
+A,8,12,Series2
+B,12,18,Series2
+C,10,15,Series2
+D,15,22,Series2

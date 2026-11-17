@@ -1,0 +1,13 @@
+x,y,group,size,label
+2.5,3.2,GroupA,50,S1
+3.8,4.5,GroupA,60,S2
+1.2,2.8,GroupA,40,S3
+4.5,5.2,GroupA,70,S4
+5.2,6.8,GroupB,80,S5
+6.5,5.5,GroupB,55,S6
+7.2,4.8,GroupB,65,S7
+8.0,7.2,GroupB,90,S8
+3.5,7.5,GroupC,45,S9
+4.8,8.2,GroupC,75,S10
+2.8,6.8,GroupC,35,S11
+5.5,9.0,GroupC,85,S12

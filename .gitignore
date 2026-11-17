@@ -1,0 +1,70 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ============================================================
+# Virtual environments
+# ============================================================
+venv/
+env/
+ENV/
+.venv/
+
+# ============================================================
+# Secrets / environment variables  <-- NEVER commit real keys
+# ============================================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+
+# ============================================================
+# Local editor / agent config (machine-specific, may leak paths)
+# ============================================================
+.claude/
+.workbuddy/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Runtime data: user uploads & generated outputs
+# May contain sensitive / personal research data.
+# Kept out of the repository by design; directories are recreated
+# automatically by app.py at startup.
+# ============================================================
+uploads/*
+outputs/*
+thumbnails/*
+!uploads/.gitkeep
+!outputs/.gitkeep
+!thumbnails/.gitkeep
+
+# ============================================================
+# Runtime-generated config (created on the fly)
+# ============================================================
+config/suggestions.json
+config/color_config.json
+
+# ============================================================
+# Sample workbook with coded clinical/biochemical sample data.
+# Synthetic/demo data, excluded as a precaution (not required at runtime).
+# ============================================================
+sample_data/*.xlsx
+sample_data/*.xls
+
+# ============================================================
+# Logs & OS junk
+# ============================================================
+*.log
+logs/

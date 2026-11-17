@@ -1,0 +1,9 @@
+x,y,group
+GeneA,2.5,Pathway1
+GeneB,4.2,Pathway1
+GeneC,1.8,Pathway1
+GeneD,5.5,Pathway1
+GeneA,3.8,Pathway2
+GeneB,2.0,Pathway2
+GeneC,6.2,Pathway2
+GeneD,3.5,Pathway2

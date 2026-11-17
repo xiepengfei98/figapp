@@ -1,0 +1,7 @@
+x,label,y,group
+GeneA,Sample1,2.5,Group1
+GeneA,Sample2,3.1,Group1
+GeneB,Sample1,4.2,Group1
+GeneB,Sample2,5.0,Group2
+GeneC,Sample1,1.5,Group2
+GeneC,Sample2,2.0,Group2

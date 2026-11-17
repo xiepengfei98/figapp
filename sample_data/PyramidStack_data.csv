@@ -1,0 +1,13 @@
+x,y,group,color
+0-4,8,Male,Employed
+0-4,6,Male,Unemployed
+0-4,10,Female,Employed
+0-4,5,Female,Unemployed
+5-9,12,Male,Employed
+5-9,4,Male,Unemployed
+5-9,14,Female,Employed
+5-9,3,Female,Unemployed
+10-14,15,Male,Employed
+10-14,5,Male,Unemployed
+10-14,12,Female,Employed
+10-14,4,Female,Unemployed

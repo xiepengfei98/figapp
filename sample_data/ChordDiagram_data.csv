@@ -1,0 +1,11 @@
+x,y,label
+Liver,Lung,25
+Liver,Brain,15
+Liver,Bone,10
+Lung,Brain,20
+Lung,Lymph,18
+Brain,Bone,8
+Brain,Lymph,12
+Bone,Lymph,5
+Lymph,Liver,22
+Lung,Liver,30

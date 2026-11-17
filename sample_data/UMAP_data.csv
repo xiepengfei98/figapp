@@ -1,0 +1,13 @@
+x,y,group,label
+-3.5,2.1,Cluster1,C1_S1
+-2.8,1.5,Cluster1,C1_S2
+-4.2,2.8,Cluster1,C1_S3
+-3.0,1.8,Cluster1,C1_S4
+2.5,-3.2,Cluster2,C2_S1
+3.0,-2.5,Cluster2,C2_S2
+2.0,-3.8,Cluster2,C2_S3
+3.5,-2.0,Cluster2,C2_S4
+4.5,4.0,Cluster3,C3_S1
+5.0,3.5,Cluster3,C3_S2
+4.0,4.5,Cluster3,C3_S3
+5.5,3.0,Cluster3,C3_S4

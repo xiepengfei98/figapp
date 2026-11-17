@@ -1,0 +1,11 @@
+x,y,group
+Control,2.5,Batch1
+Control,3.1,Batch2
+Control,2.8,Batch1
+Control,3.5,Batch2
+Control,2.2,Batch1
+Treatment,5.2,Batch1
+Treatment,6.8,Batch2
+Treatment,4.5,Batch1
+Treatment,7.2,Batch2
+Treatment,5.8,Batch1

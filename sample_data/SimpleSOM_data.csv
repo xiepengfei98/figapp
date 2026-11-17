@@ -1,0 +1,10 @@
+x,y,group
+-2.5,1.8,Cluster1
+-1.8,2.5,Cluster1
+-3.2,1.2,Cluster1
+2.5,-1.5,Cluster2
+3.0,-2.0,Cluster2
+2.0,-2.8,Cluster2
+4.5,3.5,Cluster3
+5.0,2.8,Cluster3
+4.0,4.2,Cluster3
